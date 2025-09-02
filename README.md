@@ -5,7 +5,7 @@ It’s inspired by the classic arcade game Pong from 1972.
 
 ---
 
-## 🚀 Features
+##  Features
 - 2-player local gameplay  
 - Smooth paddle and ball movement  
 - Pause and restart options  
@@ -31,7 +31,7 @@ It’s inspired by the classic arcade game Pong from 1972.
 
 ---
 
-## 🛠 Requirements
+##  Requirements
 - Python 3.x  
 - Pygame  
 
